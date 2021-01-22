@@ -89,7 +89,7 @@ a:hover,a:focus{color:#74777b;}
 .bgcolor-12{ background: #3498DB; color: #fff;}/*light blue*/
 /* Header */
 .htmleaf-header{
-	padding: 1em 190px 1em;
+	padding: 4em 0;
 	letter-spacing: -1px;
 	text-align: center;
 }
@@ -225,7 +225,9 @@ a:hover,a:focus{color:#74777b;}
 
 @media screen and (max-width: 50em) {
 	.htmleaf-header {
-		padding: 9em 10% 4em;
+		padding: 4em 0;
+		letter-spacing: -1px;
+		text-align: center;
 	}
 	.htmleaf-header h1 {
         font-size:2em;
